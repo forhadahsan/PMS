@@ -113,5 +113,5 @@
 			</ul>
 		</div>
 	</div>
-</div><!-- Visit codeastro.com for more projects -->
+</div> 
 <!-- /Sidebar -->
